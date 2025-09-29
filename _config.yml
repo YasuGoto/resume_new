@@ -1,0 +1,4 @@
+title: 後藤泰子 Portfolio
+baseurl: "/my-portfolio" # リポジトリ名
+theme: minima # GitHub Pages で標準テーマ
+markdown: kramdown
