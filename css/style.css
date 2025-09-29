@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  background-color: #f9f9f9;
+  color: #333;
+}
+h1 {
+  color: #222;
+}
+.intro {
+  margin-top: 30px;
+  font-size: 1rem;
+  line-height: 1.6;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.links {
+  margin-top: 40px;
+}
+.links a {
+  display: block;
+  margin: 15px 0;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #0066cc;
+  transition: color 0.2s;
+}
+.links a:hover {
+  color: #ff6600;
+}
